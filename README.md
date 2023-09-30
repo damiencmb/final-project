@@ -18,7 +18,7 @@ I then analyzed the risk factors from different points of view:
 
 ### Scraping
 
-I then scraped the different symptoms of heart attack and cardiovascular disease.
+Next, I scraped the different symptoms of heart attack and cardiovascular disease.
 
 ### Modeling
 
