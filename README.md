@@ -22,8 +22,4 @@ Next, I scraped the different symptoms of heart attack and cardiovascular diseas
 
 ### Modeling
 
-<<<<<<< HEAD
 After that, I built a model to predict the occurrence or not of a heart attack.
-=======
-After that, I built a model to predict the occurrence or not of a heart attack.
->>>>>>> 2a6851a1f0851097db661207479678f231fb92f0
